@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bush.png-97b660d79152156039d8faabf23a5333.stex"
+path="res://.import/cursor3.png-014ebc3a1a0a32236b1aaadd7fab8ee2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/nature/bush.png"
-dest_files=[ "res://.import/bush.png-97b660d79152156039d8faabf23a5333.stex" ]
+source_file="res://Sprites/UI/cursor3.png"
+dest_files=[ "res://.import/cursor3.png-014ebc3a1a0a32236b1aaadd7fab8ee2.stex" ]
 
 [params]
 
