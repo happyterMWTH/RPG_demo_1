@@ -18,6 +18,24 @@ _global_script_class_icons={
 config/name="Rpg Demo"
 config/icon="res://icon.png"
 
+<<<<<<< Updated upstream
+=======
+[autoload]
+
+var_iso="*res://Scripts/Cat_mc/variables_iso.gd"
+
+[display]
+
+window/size/width=300
+window/size/height=180
+window/size/test_width=1024
+window/size/test_height=720
+mouse_cursor/custom_image="res://Sprites/UI/cursor1.png"
+mouse_cursor/custom_image_hotspot=Vector2( 24.5, 24.5 )
+mouse_cursor/tooltip_position_offset=Vector2( 0, 0 )
+window/stretch/mode="2d"
+
+>>>>>>> Stashed changes
 [importer_defaults]
 
 texture={
